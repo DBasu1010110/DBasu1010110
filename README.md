@@ -12,7 +12,7 @@ One of my primary interests is gaming, especially balace and design of character
 data-science-portfolio/
 ├── projects/                  # Core projects organized by topic
 ├── notebooks/                 # General-purpose notebooks and templates
-├── utils/                     # Reusable utility functions
-├── data/                      # Sample or mock datasets only (avoid large files)
+├── utils/                     # Utility functions (if needed)
+├── data/                      # Sample or mock datasets only (no large files)
 ├── requirements.txt           # Python dependencies
 └── README.md
