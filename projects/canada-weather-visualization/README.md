@@ -17,12 +17,12 @@ The weather dataset is available on Kaggle:
 
 ## Repository Structure
 canada-weather-visualization/
-|
-|- README.md # Project overview
-|- canada_weather_visualization.ipynb # Jupyter Notebook with full analysis & plots
-|- data/
-   |- README.md # Kaggle dataset link
-|- visuals/
-   |- temperature_trends.png # Sample saved plots
-   |- elevation_vs_temp.png
-|- requirements.txt # Dependencies
+│
+├── README.md # Project overview
+├── canada_weather_visualization.ipynb # Jupyter Notebook with full analysis & plots
+├── data/
+│ └── README.md # Kaggle dataset link
+├── visuals/ # Sselect plots
+│ └── temperature_trends.png 
+│ └── province_heatmap.png
+└── requirements.txt # Dependencies
