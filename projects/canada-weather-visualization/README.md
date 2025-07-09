@@ -14,15 +14,3 @@ The weather dataset is available on Kaggle:
 > [Canadian Weather Dataset (Kaggle)](https://www.kaggle.com/hemil26/canadian-weather-data)
 
 *(Note: Dataset is not stored in this repo for licensing reasons.)*
-
-## Repository Structure
-canada-weather-visualization/
-│
-├── README.md # Project overview
-├── canada_weather_visualization.ipynb # Jupyter Notebook with full analysis & plots
-├── data/
-│ └── README.md # Kaggle dataset link
-├── visuals/ # Sselect plots
-│ └── temperature_trends.png 
-│ └── province_heatmap.png
-└── requirements.txt # Dependencies
