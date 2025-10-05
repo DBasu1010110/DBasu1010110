@@ -7,7 +7,7 @@ The goal is then to the logistic loss function (smooth convex function, perfect 
 
 Objective Function: binary cross-entropy loss (c.f.: <https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-learning>)
 
-Program design: (use the comments #------------------ (number) ) to break the program into modules for clarity and ease of editing
+Program design: (use the comments #------------------ (number)  to break the program into modules for clarity and ease of editing)
 1. Import libraries and load the dataset
 2. Helper Functions
 3. GDA implementations
