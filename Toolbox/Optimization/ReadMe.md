@@ -6,9 +6,9 @@ Train a logistic regression classifier to predict whether a flower is Iris Setos
 The goal is then to the logistic loss function.
 
 Why is it good?
-> It’s smooth and convex.
-> Gradient-based methods perform differently depending on learning rate and other parameters.
-> We can visualize convergence easily.
+i. It’s smooth and convex.
+ii. Gradient-based methods perform differently depending on learning rate and other parameters.
+iii. We can visualize convergence easily.
 
 Objective Function: binary cross-entropy loss (c.f.: <https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-learning>)
 
