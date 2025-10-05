@@ -3,12 +3,7 @@ Otherwise, you’re just iterating numbers with no purpose.
 
 Even though Iris is primarily used for classification, we repurpose it slightly to define an optimization problem:
 Train a logistic regression classifier to predict whether a flower is Iris Setosa (1) or not (0).
-The goal is then to the logistic loss function.
-
-Why is it good?
-i. It’s smooth and convex.
-ii. Gradient-based methods perform differently depending on learning rate and other parameters.
-iii. We can visualize convergence easily.
+The goal is then to the logistic loss function (smooth convex function, perfect for optimization algorithm showcase).
 
 Objective Function: binary cross-entropy loss (c.f.: <https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-learning>)
 
