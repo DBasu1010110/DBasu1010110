@@ -13,7 +13,7 @@ import os
 import warnings
 warnings.filterwarnings("ignore")
 
-# Module 1- Training Function
+# Module 1 - Training Function
 
 def train_model(save_path="digit_model.pkl"):
     print("Downloading MNIST dataset...")
