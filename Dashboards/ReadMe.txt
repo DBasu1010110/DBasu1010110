@@ -1,4 +1,7 @@
-A coolection of dashboards I made using Power BI:
+I have added screenshots of each for quick viewing.
+The dashboards (.pbix) files can be downloaded from the **Collection** folder.
+
+A collection of dashboards I made using Power BI:
 1. Flight
   > A comparison of flights, delays and cancels
 2. Videogame analytics
