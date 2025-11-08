@@ -1,6 +1,3 @@
-I have added screenshots of each for quick viewing.
-The dashboards (.pbix) files can be downloaded from the **Collection** folder.
-
 A collection of dashboards I made using Power BI:
 1. Flight
   > A comparison of flights, delays and cancels
@@ -8,5 +5,8 @@ A collection of dashboards I made using Power BI:
   > Prcie, Revenue and Player Sentiments
 3. Weather patterns
 4. UFO sightings
+
+I have added screenshots of each for quick viewing.
+The dashboards (.pbix) files can be downloaded from the **Collection** folder.
 
 Note: As is evident, I like the dark theme on Power BI.
